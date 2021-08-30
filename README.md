@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brichards30
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
