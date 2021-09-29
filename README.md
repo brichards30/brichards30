@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brittanymrichards" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brittanymrichards" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/brichards30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brichards30" height="30" width="40" /></a>![image](https://user-images.githubusercontent.com/84743606/135324032-80059a8f-b46d-4ef6-98b3-7deb3a949196.gif)
+<a href="https://www.hackerrank.com/brichards30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brichards30" height="30" width="40" /></a>
 
 </p>
 
