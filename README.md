@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media.giphy.com/media/MvuIqcSwYeJQcr6Mtw/giphy.gif" alt="Girl in a jacket" width="400" height="400">
+<img align="center" src="https://media.giphy.com/media/MvuIqcSwYeJQcr6Mtw/giphy.gif" alt="Girl in a jacket" width="300" height="300">
 
 <h1 align="center">Hi 👋, I'm Brittany</h1>
 <h3 align="center">A passionate Front End Developer from San Antonio, TX!</h3>
