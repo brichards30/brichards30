@@ -2,7 +2,7 @@
 <img align="center" src="https://media.giphy.com/media/MvuIqcSwYeJQcr6Mtw/giphy.gif" alt="Girl in a jacket" width="100%" height="500">
 
 <h1 align="center">Hi 👋, I'm Brittany</h1>
-<h3 align="center">A passionate Front End Developer from San Antonio, TX!</h3>
+<h3 align="center">A passionate Full Stack Developer from San Antonio, TX!</h3>
 
 - 🔭 I’m currently working on [Spring Blog](https://github.com/brichards30/spring-blog)
 
