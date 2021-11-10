@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
 <h3 align="center">A passionate Full Stack Developer from San Antonio, TX!</h3>
 
-- 🔭 I’m currently working on [Spring Blog](https://github.com/brichards30/spring-blog)
+- 🔭 I’m currently working on [myParty](https://github.com/Polaris-Capstone-My-Party/myParty)
 
-- 🌱 I’m currently learning **Spring Boot, MySQL, Java**
+- 🌱 I’m currently learning **Spring Boot, MySQL, Java, React.js, Firebase, Node.js**
 
 - 📫 How to reach me **brittany.m.richards3@gmail.com**
 
