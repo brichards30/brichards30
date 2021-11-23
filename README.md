@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS, Firebase, Redux and NodeJS**
 
-- 📫 How to reach me **Brittany.m.richards3@gmail.com**
+- 📫 How to reach me **brittany.m.richards3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
