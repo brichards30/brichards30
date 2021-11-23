@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [myParty](https://github.com/Polaris-Capstone-My-Party/myParty)
 
-- 🌱 I’m currently learning **Spring Boot, MySQL, Java, React.js, Firebase, Node.js**
+- 🌱 I’m currently learning **React.js, Firebase, Node.js**
 
 - 📫 How to reach me **brittany.m.richards3@gmail.com**
 
