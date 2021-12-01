@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Brittany!</h1>
 <h3 align="center">A Full Stack Developer from San Antonio, TX</h3>
 
-- 🔭 I’m currently working on [Linkedin clone](https://github.com/brichards30/linkedin-clone)
+- 🔭 I’m currently working on [Real Estate Application](https://github.com/brichards30/real-estate)
 
-- 🌱 I’m currently learning **React JS, Firebase, Redux and NodeJS**
+- 🌱 I’m currently learning **React JS and NodeJS**
 
 - 📫 How to reach me **brittany.m.richards3@gmail.com**
 
