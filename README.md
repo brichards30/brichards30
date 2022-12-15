@@ -2,11 +2,11 @@
 <img align="center" src="https://media.giphy.com/media/MvuIqcSwYeJQcr6Mtw/giphy.gif" alt="Brittany Richards Software Developer" width="100%" height="500">
 
 <h1 align="center">Hi 👋, I'm Brittany!</h1>
-<h3 align="center">A Full Stack Developer from San Antonio, TX</h3>
+<h3 align="center">A Java Developer from San Antonio, TX</h3>
 
-- 🔭 I’m currently working on [Real Estate Application](https://github.com/brichards30/real-estate)
+- 🔭 I’m currently working on [Java based Suduko game](https://github.com/brichards30/real-estate](https://github.com/brichards30/java-practice-2022/tree/main/JavaDesktopSudokuDemo/src/sudoku)
 
-- 🌱 I’m currently learning **React JS and NodeJS**
+- 🌱 I’m currently going through a **Java Refresh**
 
 - 📫 How to reach me **brittany.m.richards3@gmail.com**
 
