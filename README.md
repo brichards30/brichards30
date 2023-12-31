@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Brittany!</h1>
 <h3 align="center">A Java Developer from San Antonio, TX</h3>
 
-- 🔭 I’m currently working on [Java based Suduko game](https://github.com/brichards30/real-estate](https://github.com/brichards30/java-practice-2022/tree/main/JavaDesktopSudokuDemo/src/sudoku)
+- 🔭 I’m currently working on the AWS Cloud Bootcamp Project by Andrew Brown and Exampro
 
-- 🌱 I’m currently going through a **Java Refresh**
+- 🌱 I’m currently going through a transition to Cloud Security
 
 - 📫 How to reach me **brittany.m.richards3@gmail.com**
 
